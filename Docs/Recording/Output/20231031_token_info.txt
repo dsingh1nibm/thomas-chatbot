@@ -1,4 +1,0 @@
-Total Tokens: 16845
-Prompt Tokens: 11756
-Completion Tokens: 5089
-Total Cost (USD): 0.027812000000000003
