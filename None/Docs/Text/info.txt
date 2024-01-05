@@ -1,0 +1,117 @@
+Website: https://www.llamaindex.ai/
+Github: https://github.com/jerryjliu/llama_index
+Docs: https://gpt-index.readthedocs.io/en/latest/
+Twitter: https://twitter.com/llama_index
+Discord: https://discord.gg/dGcwcsnxhU
+
+OpenAIKey: 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
+Jashn openaikey: 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
+
+
+
+Servername: medhelp.database.windows.net
+authentication: sql
+server admin login: adminSQL
+
+Users:
+prikshit.bhatia@gmail.com -- donated 2 times
+sajeshkumar786@gmail.com 
+
+Doctor:
+allen.smith@gmail.com
+
+pikibhatia@gmail.com
+india@1234
+
+speech to text url: C:/MedHelp/client/javascript/index.html
+C:/Users/04318A744/Downloads/tv_archade_template_6890734/index.html
+
+https://dev115997.service-now.com/api/now/table/v_user_session
+
+
+
+Your instance URL:https://dev115997.service-now.com
+Username: admin
+Current password: zh-m^2StP5SS
+
+New instance: https://dev183654.service-now.com/
+Username: admin
+password: zb$h5cLWWC1=
+
+step_779_result_1
+${step_779_result_1.body.result[0]["incident_state"]}
+${step_779_result_1.body.result[0]["number"]}
+${step_779_result_1.body.result[0]["short_description"]}
+
+${step_559_result_1.body}.result.reports[0]["url"]
+
+${step_779_result_1.body.result}[0]["incident_state"]
+${step_821_result_1.body.result[0]["incident_state"]}
+
+Tried and working in session:
+${step_559_result_1.body}.result.reports[0]["url"]
+"<a target=""_blank"" href=""https://google.com""+${step_559_result_1.body}.result.reports[0]["url"]+">Google</a>"
+
+
+1
+
+body.result[0]["incident_state"]
+
+
+
+ssra-blue-tor1.con.can.ibm.com
+
+Name: Prikshit Bhatia
+Bell Emp Num:EQ49723
+password: Whatthehell200!@#
+Bell Email ID: prikshit.bhatia@bell.ca
+NT ID: BELL\eq49723
+
+https://confluence.bell.corp.bce.ca/pages/viewpage.action?pageId=5314628
+
+https://docs.atlassian.com/ConfluenceServer/rest/8.4.2/#api/content-search
+http://localhost:8080/confluence/rest/api/content/search?cql=creator=currentUser()&cqlcontext={%22spaceKey%22:%22TST%22, %22contentId%22:%2255%22}
+http://localhost:8080/confluence/rest/api/content/search?cql=space=DEV%20AND%20label=docs&expand=space,metadata.labels&limit=10
+
+https://confluence.atlassian.com/rest/api/content/search?cql=creator=currentUser()&cqlcontext={%22spaceKey%22:%22TST%22,%20%22contentId%22:%2255%22}
+https://confluence.atlassian.com/rest/api/content/search?cql=space=DEV%20AND%20label=docs&expand=space,metadata.labels&limit=10
+https://confluence.atlassian.com/rest/api/content/search?cql=space=jira&expand=space,metadata.labels&limit=10
+https://{your-domain}/wiki/api/v2/blogposts
+
+https://developer.atlassian.com/cloud/confluence/rest/v1/api-group-search/#api-wiki-rest-api-search-get
+https://confluence.atlassian.com/rest/api/search?cql=type=page&limit=25&cursor=raNDoMsTRiNg
+https://confluence.atlassian.com/pages/viewpage.action?pageId=596182470
+
+jira:
+https://stg.jsw.ibm.com/
+Project is available at: https://stg.jsw.ibm.com/browse/TESTBELL
+Can Administer project at: https://stg.jsw.ibm.com/plugins/servlet/project-config/TESTBELL/summary
+API Token: ChoWRmbUY3EOWdC8QHexH2n0k3tiMDrsy6GnGo
+json result coming from this url: https://jsw.ibm.com/rest/api/2/issue/FISCAL-7352
+json result coming from this url: https://stg.jsw.ibm.com/rest/api/2/issue/ISDWACESSS-65
+
+USE [db_Medicine]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Patient](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [varchar](50) NOT NULL,
+	[DOB] [varchar](50) NOT NULL,
+	[Gender] [varchar](50) NOT NULL,
+	[PhoneNumber] [varchar](10) NOT NULL,
+	[PinCode] [varchar](10) NOT NULL,
+	[Symptoms] [varchar](200) NOT NULL,
+	[medicine] [varchar](200) NOT NULL
+	
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

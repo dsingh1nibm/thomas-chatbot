@@ -1,0 +1,55 @@
+## Meeting Summary
+
+### Participants
+- Prikshit Bhatia
+- Abhishek Srivastav
+- Arnab Ray
+- Poonam Raje
+- Malar Priya
+- Sudip Biswas
+
+### Discussed
+- Prikshit Bhatia requested the recording of the meeting for transcript purposes.
+- Jenny requested updates from each team member regarding their current status.
+- Prikshit Bhatia created an Excel sheet to update the status of each account.
+- Prikshit Bhatia scheduled the call biweekly to keep everyone informed about the work in other accounts.
+- Abhishek Srivastav provided an update on the proposed solutions for Canada and mentioned that the team is seeking help from the CBDS team.
+- Prikshit Bhatia updated the account status as "in progress" for the development part.
+- Abhishek Srivastav mentioned Bank of America's interest in Generative and the need for a follow-up meeting.
+- Abhishek Srivastav mentioned the county of Cook's interest and the need for an educational meeting to understand their requirements and potential automation scenarios.
+- Poonam Raje mentioned the deployment of Agent Assist Proactive and Bluebody for a specific account.
+- Poonam Raje discussed the onboarding process for another account once the Agent Assist feature is rolled out in November.
+- Arnab Ray mentioned completion of UAT for a specific account.
+- Arnab Ray requested use cases from the Davision industry for Vishek's proposal.
+- Arnab Ray mentioned the need for a training session with the account management team regarding agent assist usage.
+- Arnab Ray mentioned CTOA's participation in agent assist.
+- Malar Priya mentioned a scheduled call to discuss interest in Generative AI for an embedded account.
+- Sudip Biswas discussed scheduling an initial call with MOMAD for the Texas account to showcase existing and upcoming offerings and gather information on their requirements.
+- Prikshit Bhatia mentioned showcasing a search solution for text documents, Excel, PDF, and Webex transcripts in the next call.
+- Sudip Biswas suggested creating a list of current offerings and showcasing them in a presentation to the account.
+- Sudip Biswas mentioned being off for the next few days and discussed plans for the thirtieth.
+- Prikshit Bhatia and Sudip Biswas discussed scheduling a call for tomorrow or after Sudip's return to discuss the Texas account and prepare for the call with MOMAD.
+- Sudip Biswas mentioned the need to gather all the details and prepare for the call with MOMAD, including the Pvts and other information.
+- Prikshit Bhatia mentioned the need to create a solution and update the account status for a project that is not working perfectly.
+- Sudip Biswas suggested consolidating all the information and presentations related to agent assist and the two offerings (invoice and IC) into one place for the upcoming call.
+- Sudip Biswas mentioned Rajendro's recent discussion with an account showing interest in Bioet and the need to catch up on the details.
+- Arnab Ray provided an update on the draft Hands account and the discussion regarding the invoice reading use case deployed in IOCL.
+- Prikshit Bhatia thanked Sudip Biswas for the updates.
+- Prikshit Bhatia mentioned Rajit being on leave and suggested discussing the matter further.
+
+### Action Items
+- Prikshit Bhatia to provide the recording of the meeting for transcript purposes.
+- Team members to provide updates on their current status.
+- Abhishek Srivastav to follow up with Bank of America regarding their interest in Generative.
+- Abhishek Srivastav to schedule a meeting with the county of Cook to educate them about the project and gather more information on their requirements.
+- Poonam Raje to update the account status as "in progress" for the Generative AI project and the deployment of Agent Assist Proactive and Bluebody.
+- Arnab Ray to provide use cases from the Davision industry for Vishek's proposal.
+- Arnab Ray to schedule a training session with the account management team regarding agent assist usage.
+- Malar Priya to follow up on the scheduled call to discuss interest in Generative AI for the embedded account.
+- Sudip Biswas to schedule an initial call with MOMAD for the Texas account to showcase existing and upcoming offerings and gather information on their requirements.
+- Prikshit Bhatia and Sudip Biswas to schedule a call to discuss the Texas account and prepare for the call with MOMAD.
+- Sudip Biswas to gather all the details and prepare for the call with MOMAD, including the Pvts and other information.
+- Prikshit Bhatia to create a solution and update the account status for a project that is not working perfectly.
+- Sudip Biswas to consolidate all the information and presentations related to agent assist and the two offerings (invoice and IC) into one place for the upcoming call.
+- Sudip Biswas to catch up on the details of Rajendro's recent discussion with an account showing interest in Bioet.
+- Arnab Ray to provide an update on the draft Hands account and the discussion regarding the invoice reading use case deployed in IOCL.

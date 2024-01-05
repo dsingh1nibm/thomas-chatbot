@@ -1,0 +1,29 @@
+What is Python?
+Python is a high-level, general-purpose, and very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting-edge technology in Software Industry.
+
+Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+
+The biggest strength of Python is huge collection of standard library which can be used for the following:
+
+Machine Learning
+GUI Applications (like Kivy, Tkinter, PyQt etc. )
+Web frameworks like Django (used by YouTube, Instagram, Dropbox)
+Image processing (like OpenCV, Pillow)
+Web scraping (like Scrapy, BeautifulSoup, Selenium)
+Test frameworks
+Multimedia
+Scientific computing
+Text processing and many more..
+
+Python 3 is a popular high-level programming language used for a wide variety of applications. Here are some basics of Python 3 that you should know:
+
+Variables: In Python 3, variables are created by assigning a value to a name. For example, x = 5 creates a variable called x and assigns the value 5 to it.
+Data types: Python 3 supports several built-in data types, including integers, floats, strings, booleans, lists, tuples, and dictionaries.
+Operators: Python 3 supports a variety of operators, including arithmetic operators (+, -, *, /), comparison operators (>, <, ==, !=), and logical operators (and, or, not).
+Control flow statements: Python 3 supports several control flow statements, including if-else statements, for loops, and while loops. These statements allow you to control the flow of execution in your code.
+Functions: In Python 3, functions are created using the def keyword. For example, def my_function(x): creates a function called my_function that takes one argument called x.
+Input and output: In Python 3, you can use the input() function to get user input, and the print() function to output text to the console.
+
+Modules: Python 3 supports modules, which are collections of functions and variables that can be imported and used in other Python code. You can import modules using the import keyword.
+
+We also have a complete Python 3 Tutorial designed to learn Python 3 at all levels, from beginners to advanced. This comprehensive tutorial takes you through the fundamental concepts of Python and gradually progresses to more advanced topics.

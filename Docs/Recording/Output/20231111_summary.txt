@@ -1,0 +1,45 @@
+## Meeting Summary
+
+### Participants  
+- Prikshit Bhatia
+- Abhishek Srivastav
+- ARNAB RAY
+- Poonam Raje
+- Sudip Biswas
+
+### Discussed
+- Prikshit Bhatia requested the recording of the meeting for transcript purposes.
+- Jenny requested updates from each team member on their current status.
+- Prikshit Bhatia created an Excel sheet to track the status of each account.
+- Prikshit Bhatia scheduled the call biweekly to keep everyone informed about ongoing work.
+- Abhishek Srivastav provided an update on the proposed solutions for Canada, which are currently on hold. They are working with the CBDS team on an alternate solution.
+- Each account team is currently working on the development part.
+- Abhishek Srivastav mentioned that the TBDS team is proposing a solution.
+- The status of the work is currently in progress.
+- Abhishek Srivastav mentioned an interest from Bank of America in Generative, but a meeting with them still needs to be scheduled.
+- Abhishek Srivastav provided an update on the county of Cook's interest in the project. He will be getting more details by the end of the day and will schedule a meeting for the team to educate them on the project.
+- Prikshit Bhatia mentioned that the upcoming meetings should include him and Vishek Gora as well.
+- Poonam Raje mentioned that the deployment for one account has started and they are waiting for proactive UAT to be completed before making any changes. The other account will onboard to the Jennia platform feature in November.
+- ARNAB RAY mentioned that they have a couple of sessions on GDI and are waiting for use cases on aviation from the aviation industry. UAT for the agent assist functionality is completed.
+- ARNAB RAY mentioned that UAT is completed for them.
+- Sudip Biswas discussed the need to schedule an initial call with MOMAD for the Texas account to showcase all the existing and upcoming offerings. They want to see the overall offering and match it with their requirements.
+- Prikshit Bhatia mentioned that in the next call, he will showcase a solution for the Texas account, which involves searching text documents, Excel, PDF, and Webex transcript summaries in the database.
+- Sudip Biswas suggested creating a list of all current existing offerings and creating a PPT to showcase them to the account.
+- Sudip Biswas mentioned that he will be off for the next few days and will not be available on the 30th.
+- Sudip Biswas and Prikshit Bhatia discussed scheduling a call with Surajit to discuss updates.
+
+### Additional Context
+- Prikshit Bhatia informed that Rajit is on leave and will not be able to join the call.
+- ARNAB RAY mentioned that he won't be able to join the next call.
+- Prikshit Bhatia mentioned that updates from the team can be provided on the call or through email before Friday.
+- Abhishek Srivastav requested a quick discussion with Prikshit Bhatia.
+- Abhishek Srivastav mentioned the EABMS account.
+
+### Follow-up actions
+- Prikshit Bhatia to update the Excel sheet with the discussed updates.
+- Abhishek Srivastav to follow up with Bank of America regarding their interest in Generative.
+- Abhishek Srivastav to schedule a meeting with the county of Cook to educate them on the project.
+- ARNAB RAY to share the use cases on aviation from the aviation industry.
+- Prikshit Bhatia and Vishek Gora to be included in upcoming meetings.
+- Sudip Biswas to schedule an initial call with MOMAD for the Texas account to showcase the existing and upcoming offerings.
+- Sudip Biswas and Prikshit Bhatia to schedule a call with Surajit to discuss updates.

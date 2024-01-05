@@ -1,0 +1,7 @@
+Structured Query Language (SQL) is a programming language for managing data in a relational database management system. It's also used for stream processing in a relational data stream management system.SQL is used to create, store, update, and retrieve data. It's also used to access, maintain, and manipulate existing databases. 
+SQL databases are collections of highly structured tables, where each row represents a data entity, and each column defines a specific information field. Relational databases store information in tabular form, with rows and columns representing different data attributes and the various relationships between the data values. 
+SQL defines three kinds of data types: 
+Predefined data types
+Constructed types
+User-defined types
+SQL is considered simpler to learn than Python because it only allows a limited number of operations. However, mastering its syntax and structures can take some time. 

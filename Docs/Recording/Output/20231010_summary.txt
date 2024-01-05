@@ -1,0 +1,39 @@
+## Meeting Summary
+
+### Participants
+- Aaron Peikert
+- Valentin Kriegmair
+- Maximilian Ernst
+- Hannes
+- Moritz
+- Nicholas
+- Movers
+- Andreas Brandmaier
+
+### Discussed
+- Aaron mentioned the need to update the repository of conferences the group is interested in attending for the next year. They plan to discuss and make a plan together during a meeting where Oman is present. This discussion should take place before December to allow for budget planning. Aaron will update the repository.
+- Aaron mentioned that Anna Lumen was sick for a few weeks, resulting in no progress on the taxonomy. However, Aaron has a meeting with her next Monday and invited others to join or provide input via email. All participants are encouraged to attend the meeting or provide input via email.
+- Valentin asked if he could join the meeting online and Aaron requested him to send an email to ensure he is invited. Aaron will send an email to invite Valentin to the meeting.
+- Aaron inquired about Maximilian's poster and confirmed that everything is now officially in place.
+- Aaron mentioned the invitation extended to Maria, the equity representative, to present on equity during a team meeting. However, Maria has not responded, so Aaron will follow up.
+- Aaron discussed the idea of organizing a Julia workshop at the Institute, following the successful workshop in Munich. Dates for the workshop were suggested, but the email with the details was not included in the agenda. Aaron will look it up and share the dates with the team.
+- Hannes provided the dates for the Julia workshop as November 10th, 11th, 14th, and 17th.
+- Aaron mentioned the possibility of offering the workshop to other companies and inviting external speakers. Andreas suggested reaching out to YMCA or attaching to one of the graduate schools for potential funding.
+- Andreas mentioned the possibility of inviting someone from the company "Getting Things Done" to discuss the implementation of their team-focused product next year.
+- Aaron mentioned his intention to email someone regarding their interest in a two-hour workshop on personal organization.
+- Hannes and Maximilian discussed their plans for a presentation on December 13th and the possibility of doing a test run after one of the team meetings.
+- Maximilian expressed his hesitation to give a colloquium talk due to his already busy schedule and the need for methodological feedback.
+- Aaron suggested that Maximilian could present his vision for the future in a presentation instead.
+- The group discussed the number of presentations and the importance of being on the list of presenters decided by Oman.
+
+### Action Items
+- Update the repository of conferences before December for budget planning - Aaron
+- Attend the meeting with Anna Lumen or provide input via email - All
+- Send an email to invite Valentin to the meeting - Aaron
+- Follow up with Maria regarding the equity presentation - Aaron
+- Look up the email with the dates for the Julia workshop - Aaron
+- Explore the possibility of inviting external speakers and seeking funding - Aaron
+- Schedule a test run for the presentation after a team meeting - Hannes
+- Decide on Maximilian's presentation topic and schedule - Group discussion
+- Reach out to "Getting Things Done" company for a discussion on their team-focused product - Aaron
+- Email interested party regarding the two-hour workshop on personal organization - Aaron

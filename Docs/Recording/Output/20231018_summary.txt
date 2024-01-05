@@ -1,0 +1,43 @@
+## Meeting Summary
+
+### Participants
+- Bhatia
+- Srivastav
+- RAY
+- Raje
+- Vishek Gora
+- BISWAS
+
+### Discussed
+- Bhatia requested the recording of the meeting for transcript purposes.
+- Srivastav provided an update on the status of the Bel Canada account, mentioning that two proposed solutions are on hold and the team is working on an alternate solution with the help of the CBDS team.
+- Bhatia mentioned that each account team is currently working on the development part.
+- Srivastav mentioned that the TBDS team is proposing a solution and the status is currently in progress, with discussions on costing and other details.
+- Srivastav mentioned that Bank of America has shown interest in Generative and a meeting needs to be followed up.
+- Srivastav provided an update on the county of Cook account, stating that they have shown interest and a meeting will be scheduled to discuss scenarios and potential automation.
+- RAY mentioned that there are updates on the GDI stations and requested information on use cases from the aviation industry, particularly from India. RAY is also waiting for details on the UAT for the agent assist functionality.
+- Bhatia confirmed completion of UAT for the agent assist functionality.
+- RAY requested any use cases from the aviation industry and asked Bhatia to share them if available.
+- RAY mentioned that he is working on proposals for Canada and India and requested Bhatia to share any relevant cases.
+- RAY mentioned that DSMP use case has been implemented, but AI implementation is pending.
+- RAY mentioned that Delux is currently using agent assist and a meeting needs to be scheduled with the account management team to discuss the functionality.
+- RAY mentioned that CTOA has also shown interest in agent assist.
+- Bhatia mentioned that in the next call, she will showcase a solution that involves searching text documents, Excel, PDF, and Webex transcript summaries in the database.
+- BISWAS suggested creating a list of all current existing offerings, including Obish, invoicing-related tools, and agent assistant, and preparing a PowerPoint presentation to showcase them in a call with the account.
+- BISWAS mentioned his upcoming absence and suggested scheduling the call after his return.
+- Bhatia mentioned the need to create the solution and gather all the necessary details.
+- BISWAS suggested giving Bhatia time to prepare and gather all the details.
+
+### Action Items
+- Bhatia to provide the recording of the meeting for transcript purposes.
+- Srivastav to follow up with Bank of America for a meeting.
+- Srivastav to schedule a meeting with the county of Cook account to discuss scenarios and potential automation.
+- Raje to provide updates on the Generative AI and Agent Assistenia infused assist projects.
+- Bhatia to include Raje and Vishek Gora in further meetings.
+- RAY to share use cases on aviation from the aviation industry.
+- Bhatia to share any available use cases from the aviation industry with RAY.
+- Bhatia to share relevant cases for Canada and India with RAY.
+- BISWAS to schedule an initial call with MOMAD for the Texas account to showcase existing and upcoming solutions.
+
+### Side Comments
+None.
